@@ -1,0 +1,2 @@
+{"checkerboard": {"width": 1, "height": 1, "cols": 5, "rows": 10}, 
+"camera": {"focal_length": 200, "principal_point": [0, 0], "num_cameras": 5}}
